@@ -11,7 +11,7 @@ I'm a **Laravel Developer** with over **2 years of experience**, passionate abou
 - Git, GitHub, Postman, Composer, NPM
 
 ## 📫 Connect With Me
-- **LinkedIn:** [https://www.linkedin.com/in/askar-ibne-saikh-sagor-bba66a1a0/](#)
-- **Email:** [sagor.askar@gmail.com]
+- **LinkedIn:** https://www.linkedin.com/in/askar-ibne-saikh-sagor-bba66a1a0/
+- **Email:** sagor.askar@gmail.com
 
 Let's connect and build something amazing! 🚀
