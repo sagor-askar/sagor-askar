@@ -9,7 +9,7 @@ I'm Askar Ibne Saikh — a passionate Software Developer who loves building clea
 - 🌱 Always exploring new technologies and improving skills.
 
 🔹 Tech Stack:
-- Languages: PHP, JavaScript, TypeScript (Basic)
+- Languages: PHP, JavaScript, Python
 - Frameworks: Laravel,Bootstrap
 - Tools: Git, Docker, VSCode
 - Database: MySQL
