@@ -10,9 +10,11 @@ I'm Askar Ibne Saikh — a passionate Software Developer who loves building clea
 
 🔹 Tech Stack:
 - Languages: PHP, JavaScript, Python
-- Frameworks: Laravel,Bootstrap
+- Frameworks: Laravel,Bootstrap, Tailwind CSS
 - Tools: Git, Docker, VSCode
 - Database: MySQL
+- API: REST API
+- Server: CPanel, VPS
 
 🔹 Let's Connect:
 - LinkedIn: https://www.linkedin.com/in/askar-ibne-saikh-sagor-bba66a1a0/
