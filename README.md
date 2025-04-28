@@ -1,17 +1,22 @@
-# Hi there! 👋 This is Md. Askar Ibne Saikh Sagor
+## Welcome!
 
-## 🚀 About Me
-I'm a **Laravel Developer** with over **2 years of experience**, passionate about building scalable, efficient, and user-friendly web applications. I love solving complex problems and continuously improving my skills.
+I'm Askar Ibne Saikh — a passionate Software Developer who loves building clean, scalable, and high-performance applications.
 
-## 💡 Skills & Technologies
+🔹 About Me:
+- 💻 Full-time developer working mainly with modern web technologies.
+- 🔥 Focused on Laravel, and backend systems.
+- 🎯 Passionate about clean code, best practices, and learning new things every day.
+- 🌱 Always exploring new technologies and improving skills.
 
-- Laravel, PHP, RESTful APIs, Authentication & Authorization
-- Blade, JavaScript, Tailwind CSS, Bootstrap
-- MySQL, Docker, Apache
-- Git, GitHub, Postman, Composer, NPM
+🔹 Tech Stack:
+- Languages: PHP, JavaScript, TypeScript (Basic)
+- Frameworks: Laravel,Bootstrap
+- Tools: Git, Docker, VSCode
+- Database: MySQL
 
-## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/askar-ibne-saikh-sagor-bba66a1a0/
-- **Email:** sagor.askar@gmail.com
+🔹 Let's Connect:
+- LinkedIn: https://www.linkedin.com/in/askar-ibne-saikh-sagor-bba66a1a0/
+- Portfolio: https://sagor-askar.github.io/Personal-Portfolio/index.html
+- Email: sagor.askar@gmail.com 
 
-Let's connect and build something amazing! 🚀
+Thanks for your time — let's build something amazing together! 🚀
