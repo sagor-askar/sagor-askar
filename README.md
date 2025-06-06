@@ -3,7 +3,7 @@ A passionate Software Developer who loves building clean, scalable, and high-per
 
 🔧 Tech Focus
 - Backend: PHP (Laravel)
-- Frontend: Bootstrap, Tailwind CSS
+- Frontend: Bootstrap, Tailwind CSS, Alpine JS
 - Database: MySQL
 - Tools: Git, Docker, VSCode
 - Others: RESTful APIs, CPanel, VPS
