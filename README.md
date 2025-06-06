@@ -1,24 +1,28 @@
-## Welcome!
+👋 Hi, I'm Askar Ibne Saikh
+A passionate Software Developer focused on building clean, scalable, and high-performance web applications.
 
-I'm Askar Ibne Saikh — a passionate Software Developer who loves building clean, scalable, and high-performance applications.
+🔧 Tech Focus
+Backend: PHP (Laravel)
 
-🔹 About Me:
-- 💻 Full-time developer working with modern web technologies.
-- 🔥 Focused on Laravel, and backend systems.
-- 🎯 Passionate about clean code, best practices, and learning new things every day.
-- 🌱 Always exploring new technologies and improving skills.
+Frontend: Bootstrap, Tailwind CSS, Alpine JS
 
-🔹 Tech Stack:
-- Languages: PHP, JavaScript, Python
-- Frameworks: Laravel, Bootstrap, Tailwind CSS
-- Tools: Git, Docker, VSCode
-- Database: MySQL
-- API: RESTful APIs
-- Server: CPanel, VPS
+Database: MySQL
 
-🔹 Let's Connect:
-- LinkedIn: https://www.linkedin.com/in/askar-ibne-saikh-sagor-bba66a1a0/
-- Portfolio: https://sagor-askar.github.io/Personal-Portfolio/index.html
-- Email: sagor.askar@gmail.com 
+Tools: Git, Docker, VSCode
 
-Thanks for your time — let's build something amazing together! 🚀
+Others: RESTful APIs, CPanel, VPS
+
+🚀 About Me
+Full-time developer using modern web technologies
+
+Advocate of clean code and software best practices
+
+Lifelong learner, always exploring new tools and techniques
+
+📫 Connect With Me
+🔗 LinkedIn
+
+🌐 Portfolio
+
+📧 sagor.askar@gmail.com
+
