@@ -8,9 +8,9 @@ Passionate about building robust and scalable software solutions that combine cl
 **Languages & Frameworks:**
 - **Frontend:** Bootstrap, Tailwind CSS, Angular (Basic)
 - **Backend:** PHP, Laravel, Python, TypeScript
-- **Database** SQL, MySQL
-- **API Development** REST API
-- **Cloud & Deployment** CPanel, VPS Server, Docker (Basic)
+- **Database:** SQL, MySQL
+- **API Development:** REST API
+- **Cloud & Deployment:** CPanel, VPS Server, Docker (Basic)
 
 **Tools & Platforms:**
 - Git & GitHub
@@ -33,8 +33,6 @@ Passionate about building robust and scalable software solutions that combine cl
 ---
 
 ## 📫 Let’s Connect!
-
-Feel free to reach out via:
 
 - 📧 Email: sagor.askar@gmail.com  
 - 🌐 LinkedIn: https://www.linkedin.com/in/askar-ibne-saikh-sagor-bba66a1a0/   
