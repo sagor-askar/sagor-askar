@@ -1,28 +1,25 @@
 # 👋 Hi there, I'm Md. Askar Ibne Saikh Sagor
 
-🎯 **Passionate Software Developer** specializing in building **clean**, **scalable**, and **high-performance web applications** with a strong focus on backend development.
+Passionate about building robust and scalable software solutions that combine clean code with user-focused functionality. 
 
 ---
 ## 🔧 Tech Stack
 
 **Languages & Frameworks:**
-- **Backend:** PHP (Laravel)
-- **Frontend:** HTML5, CSS3, JavaScript (Alpine.js), Bootstrap, Tailwind CSS
-
-**Database:**
-- MySQL
+- **Frontend:** Bootstrap, Tailwind CSS, Angular (Basic)
+- **Backend:** PHP, Laravel, Python, TypeScript
+- **Database** SQL, MySQL
+- **API Development** REST API
+- **Cloud & Deployment** CPanel, VPS Server, Docker (Basic)
 
 **Tools & Platforms:**
 - Git & GitHub
-- Docker
 - Visual Studio Code
-- CPanel, VPS Server Management
 
 **Others:**
-- RESTful API Development
 - MVC Architecture
 - Clean Code Principles
-- Version Control & CI/CD basics
+- Version Control 
 
 ---
 
