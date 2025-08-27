@@ -36,6 +36,6 @@ Passionate about building robust and scalable software solutions that combine cl
 
 - 📧 Email: sagor.askar@gmail.com  
 - 🌐 LinkedIn: https://www.linkedin.com/in/askar-ibne-saikh-sagor-bba66a1a0/   
-- 🌍 Portfolio: https://sagor-askar.github.io/Personal-Portfolio/index.html 
+- 🌍 Portfolio: https://sagor-askar.github.io/personal-portfolio/
 
 Thanks for visiting! ⭐️
