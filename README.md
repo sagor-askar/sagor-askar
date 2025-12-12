@@ -6,7 +6,7 @@ Passionate about building robust and scalable software solutions that combine cl
 ## 🔧 Tech Stack
 
 **Languages & Frameworks:**
-- **Frontend:** Bootstrap, Tailwind CSS, Angular (Basic)
+- **Frontend:** Bootstrap, Tailwind CSS, React (Basic)
 - **Backend:** PHP, Laravel, Python, TypeScript
 - **Database:** SQL, MySQL
 - **API Development:** REST API
