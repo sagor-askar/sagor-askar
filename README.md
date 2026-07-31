@@ -46,18 +46,8 @@ Thin controllers, domain logic in services. The API contract *is* the product. I
 
 <br />
 
-## GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sagor-askar&show_icons=true&hide_border=true&bg_color=00000000&title_color=00B894&icon_color=00B894&text_color=808080&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagor-askar&layout=compact&hide_border=true&bg_color=00000000&title_color=00B894&text_color=808080&langs_count=6" alt="languages" />
-</p>
-
-<br />
-
 ---
 
 <p align="center">
-  <b>Open for contract & full-time work.</b><br />
   <sub>Reach me at <a href="mailto:sagor.askar@gmail.com">sagor.askar@gmail.com</a> — I reply within a day.</sub>
 </p>
