@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://sagor-askar.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00B894?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/askar-ibne-saikh-sagor-bba66a1a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/md-askar-ibne-saikh-sagor-bba66a1a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sagor.askar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
