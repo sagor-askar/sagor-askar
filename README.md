@@ -1,5 +1,4 @@
-<h1 align="center"> Md. Askar Ibne Saikh Sagor</h1>
-
+<h1 align="center"> Md. Askar Ibne Saikh Sagor </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1500&color=00B894&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Laravel+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Inertia;Schema+to+server%2C+one+accountable+line." alt="tagline" />
